@@ -1,7 +1,7 @@
 #绘制结果图
 import matplotlib.pyplot as plt
 
-resultFilePath='test_results/绘图好看测试结果.txt'
+resultFilePath='test_results/7_25所有数据测试结果.txt'
 
 batchs=[]
 acc=[]
